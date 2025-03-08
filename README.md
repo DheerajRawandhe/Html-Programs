@@ -5,6 +5,18 @@ HTML (HyperText Markup Language) is the foundation of web development. It is use
 An HTML document starts with <!DOCTYPE html>,
 which tells the browser that the document is written in HTML5.
 
+# Basic Structure of an HTML Page :- 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>My First html program</title>
+</head>
+<body>
+    <h1>Welcome to HTML</h1>
+    <p>This is my website</p>
+</body>
+</html> 
 
 # Understanding HTML Tags
 HTML uses tags to structure a webpage. Some important tags I have used include :-
